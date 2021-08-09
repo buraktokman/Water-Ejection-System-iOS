@@ -12,16 +12,18 @@ Eject is a simple, yet powerful App built for iOS and designed to protect your p
 
 Eject has many great benefits from being carefully built with an industry leading design which gives users things like an easy-to-use user interface and a built in update system that aims to give you the best user experience possible.
 
-### CAUTION!
 ------
+### CAUTION!
+
 Aim of this project misundersood and application project rejected by Apple.
 Direct quote:
 
 "We noticed that using your app my result in damage the user's device. Specifically, the app claims to be able to eject water from the device, its use could potentially result in damage."
 
 
-### Benefits:
 ------
+### Benefits:
+
 
 •  Life Saver - Removes water from you iDevice
 •  Budget Friendly - Saves you from paying hundreds of dollars for service/replacement if you use it right before water contact!
@@ -29,9 +31,8 @@ Direct quote:
 •  Perfect Support - Check your device warranty or get in touch with knowledgeable expert
 
 
-
-### Features:
 ------
+### Features:
 
 • One touch support & warranty check
 • Plays ultra low frequency sounds & vibration to remove water
@@ -40,9 +41,8 @@ Direct quote:
 • Haptic vibration & sound feedback make you sure that you counted every touch
 
 
-
-### How it works?
 ------
+### How it works?
 
 1. Press start the engine
 2. Ultra low 165Hz frequency sound will start playing on your speakers
@@ -51,9 +51,8 @@ Direct quote:
 5. You'll be notified when water removed from you device
 
 
-
-### Upcoming:
 ------
+### Upcoming:
 
 - AirPods support
 - Pick eject duration
