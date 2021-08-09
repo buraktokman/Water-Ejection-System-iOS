@@ -26,8 +26,11 @@ Direct quote:
 
 
 •  Life Saver - Removes water from you iDevice
+
 •  Budget Friendly - Saves you from paying hundreds of dollars for service/replacement if you use it right before water contact!
+
 •  Hussle-Free - Start the engine & let app do the rest
+
 •  Perfect Support - Check your device warranty or get in touch with knowledgeable expert
 
 
@@ -35,9 +38,13 @@ Direct quote:
 ### Features:
 
 • One touch support & warranty check
+
 • Plays ultra low frequency sounds & vibration to remove water
+
 • Ejection system history
+
 • Detailed device information
+
 • Haptic vibration & sound feedback make you sure that you counted every touch
 
 
