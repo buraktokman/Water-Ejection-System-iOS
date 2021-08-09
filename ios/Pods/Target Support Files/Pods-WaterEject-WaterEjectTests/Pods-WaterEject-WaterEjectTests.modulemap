@@ -1,0 +1,6 @@
+module Pods_WaterEject_WaterEjectTests {
+  umbrella header "Pods-WaterEject-WaterEjectTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
